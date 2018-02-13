@@ -669,7 +669,7 @@ It’s really just an experiment of your mini game platform
 We are expecting more games developed by third party
 Can gain so much likes from users just like “Jump” do
 
-================================================= 00:12:00 by Romeo ===========================================
+> 00:12:00 by Romeo
 
 之前我们说过微信是一个工具
 
@@ -1003,7 +1003,7 @@ Of course we won’t have any other behaviors that violates users’ privacy
 
 Which included that we never send any spam message to our users
 
-================================================= 00:19:00 by NvrM!nd ===========================================
+> 00:19:00 by NvrM!nd
 
 可能大家如果有心的话可以回顾一下
 
