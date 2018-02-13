@@ -91,7 +91,6 @@ But this really inspired me a lot
 As to the game “Jump”, we developed it just as a demo
 
 其实微信的新版本里面
-
 我们为了体现出微信的小程序、小游戏这样一个平台的威力
 
 We want to show the power of WeChat Mini Program and Mini Game platform in the new version of WeChat
