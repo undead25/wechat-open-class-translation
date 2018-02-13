@@ -26,4 +26,4 @@
 [NvrM!nd](https://github.com/imyangmo)
 
 
-#Produced by [掘金翻译计划](https://github.com/xitu/gold-miner)#
+**Produced by [掘金翻译计划](https://github.com/xitu/gold-miner)**
