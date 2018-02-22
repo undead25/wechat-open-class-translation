@@ -1006,87 +1006,174 @@ Which included that we never send any spam message to our users
 
 可能大家如果有心的话可以回顾一下
 
+If you are interested, you can review it
+
 这么一些年大家在微信里有没有收到过任何一条系统群发的营销信息
+
+During these years, Did you have received any marketing messages sent by WeChat？
 
 应该说是没有的
 
+I think you have not.
+
 啊…谢谢
 
+Ah, thanks!
+
+其实……
+
+Actually...
+
 （群众：加油）
+(Audience: come on!)
 
 我不知道是什么要加油啊
 
+I don't know what's this meaning.
+
 是要讲快一点吗
 
-其实大家可能期盼我能够掏出手机是吧
+Did you mean speak faster?
+
+其实大家可能在期盼我能够掏出手机是吧
+
+You might be looking forward me to take out my phone.
 
 我手机壳坏了 所以现在没有手机壳
 
+My phone case is broking, so there is no phone case now.
+
 其实我今天做了一些准备 所以我不打算再掏手机了
+
+Actually, I made some preparations today, so I do not plan to take out my phone again.
 
 然后叫我们同事弄了一些字幕器在前面
 
+I have asked my colleagues to put some subtitles in front of me.
+
 但是我们同事的字幕器翻的太快了
 
-我还没有看完他就翻到下一页去了
+But he turned the subtitles too fast.
+
+每次我还没有看完他就翻到下一页去了
+
+Every time I haven't finished, then he turns to the next page.
 
 所以看起来我要经常思考一下的样子
 
+So it looks like I have to think about it often.
+
 其实我在等同事把它翻回来 但是他现在还没有翻回来
+
+Actually, I was waiting for him to turn it back, but he has not turned it back yet.
 
 我都忍不住想掏出手机来看一下
 
+I can't help but want to take out my phone to check it out.
+
 其实刚才的一点我还没有讲完
+
+Actually, there are something I have not finished yet.
 
 对了 终于翻回来了
 
+Oh, finally, he turned it back.
+
 刚才说到 其实对于尊重用户来说
+
+Just said that for the respect to user.
 
 我觉得我们应该说是业界做的最好的一个产品
 
+I think we have done the best in the industry.
+
 但它会体现在每一个小点里面
+
+But it will be reflected in every litter point.
 
 包括说我们不发任何一些系统的推送
 
+Including that we will never send any system push.
+
 也包括我们不去做任何诱导的一些行为
 
-大家也知道包括我们不允许第三方去做任何诱导用户的行为
+Also include that we will never do any inductive behavior.
+
+大家也知道包括我们不允许第三方去做任何诱导用户的一些行为
+
+We also know that we do not allow any 3rd parties to do that.
 
 甚至也包括了我们不太想要太多的活动去感动你然后带来一些流量
 
+Even including that we do not want to do too much activities to touch you, and then bring some traffic.
+
 举个例子 现在到年底了
 
-可能每一个产品都会把自己换成一个节日的logo
+For example, by the end of Chinese New Year now.
+
+可能每一个产品都会把自己换成一个节日的 logo
+
+Maybe every product will change itself to holiday logo.
 
 并且开始 帮助你回顾过去一年的生活来感动你
 
+And help you to review the past year's life to touch you.
+
 但我们并不想做太多这样的事情
+
+But we don't want to do too many such things.
 
 我觉得故意感动人也是挺不尊重他的一个表现
 
+I think that the intentional touching is also a performance of disrespect.
+
 所以整体来说在产品里面 我们要保持一个特别高的专业度
+
+So, overall, we should keep a particularly high degree of professionalism in product.
 
 第二个 我们希望真正把用户当作朋友来看待
 
+Second, we really want to treat users as our friends.
+
 而不是把他当作是一个听从我们驱使的一个群体
+
+Instead of puppet.
 
 这样其实是一个不太尊重他的表现
 
+That is actually a disrespectful performance.
+
 那对于微信 我们自己其实从它第一批用户开始一直到现在
+
+For WeChat, from its first user until now.
 
 其实已经经过了好几年 并且已经到了十亿这样一个规模的时候
 
+It has been several years, and has reached a scale of one billion.
+
 反而是要提醒我们自己更多
 
-其实到现在我们还是把它当作一个几年以前刚刚面试的一个产品来看的
+That's to remind ourselves instead.
 
-我们希望保持我们当时对对微信的那样一种心态
+其实到现在我们还是把它当作一个几年以前刚刚面世的一个产品来看的
+
+Actually, we still treat it as a product that just came out a few years ago.
+
+我们希望保持我们当时对微信的那样一种心态
+
+We hope we can keep that mentality we had to WeChat.
 
 好的对于微信说到这里
 
+Ok, here's for WeChat.
+
 然后这次其实我也想带来好几方面的一些思考
 
+And actually, this time, I also want to bring some thoughts in several aspects.
+
 来跟大家来做一下简单的分享
+
+To do some simple sharing.
 
 23.50
 
